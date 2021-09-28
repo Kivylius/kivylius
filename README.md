@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://badges.pufler.dev/visits/kivylius">
+<img src="https://badges.pufler.dev/visits/kivylius/kivylius">
 
 ## My Projects :pencil:
 
